@@ -54,5 +54,5 @@ PRODUCT_PRODUCT_PROPERTIES += \
   ro.fluid.maintainer=Ghost \
   ro.fluid.cpu=HelioP60
 
-BUILD_FINGERPRINT := "google/sunfish/sunfish:11/RQ2A.210305.006/7119741:user/release-keys"
+BUILD_FINGERPRINT := "google/flame/flame:11/RQ2A.210405.005/7181113:user/release-keys"
 
